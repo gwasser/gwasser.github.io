@@ -8,38 +8,52 @@ permalink: /about/
 
 Hi, I'm Garret, and this is my website and blog.
 
-## Current Work
+## Epic Biography Summary (_Resume Abstract_)
 
-I'm currently a Vulnerability Analyst at the CERT Coordination Center,
-which is part of the Software Engineering Institute (SEI) at
-Carnegie Mellon University (CMU). That's a mouthful, so we usually just
-refer to it as "The CERT/CC".
+_Garret Wassermann is a Vulnerability Analyst at CERT Coordination Center, at the 
+Software Engineering Institute of Carnegie Mellon University. His research 
+interests include security and privacy concerns in the Internet of Things (IoT), 
+and development of programming languages and tools that may result in verifiably 
+secure systems. He contributed to the development of the Common Vulnerability 
+Scoring System (CVSS) v3.0, and is also active in developing vulnerability 
+disclosure standards as a member of the FIRST Vulnerability 
+Coordination SIG. Previously, he taught mathematics and computer science courses 
+as an Adjunct Instructor at several universities and tech schools in the 
+Pittsburgh area. Garret received MS and BS degrees in both Applied Mathematics 
+and Physics from the University of New Orleans._
 
-CMU insists I use some legalese:
-*Any views expressed in this blog/website are entirely my own and not
-necessarily the views of CERT, SEI, or CMU.*
+## Research Interests in More Depth
 
+Lately I've been interested in the Internet of Things (IoT). Not as a buzz
+word, but as the emerging properties of random devices on the network.
+It's fascinating and also scary to me the different devices using
+different protocols that are all on the internet now, and so I am
+looking into that a bit. IoT also brings up many new dimensions in the
+vulnerability disclosure debate, given IoT's possible usage for applications
+like medical devices.
 
+I am interested in functional programming, and am a fan of Haskell.
+Otherwise, I usually hack in Python. I'd like to learn more about new
+languages such as Rust. One of my comp sci dreams is to design my own language.
+Even if it won't be a huge success, still would be cool to do. Writing
+compilers for languages is pretty cool too.
 
-## My History
+The interest in programming languages comes a large degree from an interest
+in verifying the code in systems. Is it possible to _prove_ that software
+does what it is intended to do? How do we do that? It's a deeper
+question than many realize (even myself).
 
-While I'm a mathematician by education, I've been interested in computer 
-science all my life. Starting from learning qbasic and pascal back in the day, 
-I've always enjoyed programming and generally messing with computers. I worked 
-my way up to a Masters of Science in Applied Mathematics, with liberal amounts 
-of engineering and physics thrown in. Little did I know that computer 
-science would call me back later in life.
+Outside of work, I enjoy bird watching, hydroponics, and
+3D printing. I read a lot, in diverse subjects, but I can assure you
+never any literature that my English teachers insisted everyone
+would enjoy. I'm a recovering physicist so occasionally relapse and
+read about astrophysics or some other topic.
 
-For a while, I was a college instructor. I partly felt like I was contributing 
-to the problems in the educational system: I worked at schools I knew charged a 
-lot of money, and curriculum requirements meant I didn't cover topics that I 
-probably should have. As a naive new teacher, I went with it. Didn't get me 
-anywhere anyway; the college teaching environment in the US right now is 
-terrible, with the expectation of part time work, low pay, long hours, and not 
-even a guarantee of stable work. Many colleges in the Pittsburgh area are 
-attempting to unionize and I support those efforts. I also support curriculum 
-updates for modern mathematics and computer science departments, emphasizing 
-logic and understanding over teaching "things industry wants us to teach". No 
-Java, we should be teaching Haskell :-)
+## Lawyer Patrol
 
-I moved over to CERT in 2014 and don't look back. It's a blast working there.
+I'm pretty sure I'm required to say something along the lines of:
+_Any views expressed on this website are entirely my own, and my employer
+isn't responsible for any content, headaches, itchy feet, etc._. You know
+the drill, I'm sure. For safety's sake, let me also state that this
+same warning extends to Twitter and other accounts I own.
+
