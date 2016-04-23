@@ -11,7 +11,7 @@ There's a few ways to contact me depending on what your inquiry is.
 
 ## Work-Related (CERT/CC)
 
-If you're contacting me regarding vulnerability disclosure work with CERT/CC,
+If you're contacting me regarding my work with the CERT/CC,
 please contact me at [gwassermann@cert.org](mailto:gwassermann@cert.org).
 
 For sensitive inquiries, please send me a PGP encrypted email.
@@ -23,6 +23,9 @@ and on keyservers such as the
 We have a strict policy at the CERT/CC that all work-related media contact
 must go through our public relations office before I can respond to any 
 requests, so please be patient.
+
+If you're just looking to report a vulnerability, the best option is to
+fill out the CERT/CC [Vulnerability Reporting Form](https://vulcoord.cert.org/VulReport/).
 
 
 ## Personal Projects
