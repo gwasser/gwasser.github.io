@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gwasser
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gwasser.github.io
+  * I am gwasser (https://keybase.io/gwasser) on keybase.
+  * I have a public key with fingerprint B4C8 CFF1 A57B 87BC 2FD2  50BA 21DA 2419 FAC3 38AE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010109925e28a970a97b8acb0774ae97e4904503f332d968c74bf17f0e53457c3bfb0a",
+      "fingerprint": "b4c8cff1a57b87bc2fd250ba21da2419fac338ae",
+      "host": "keybase.io",
+      "key_id": "21da2419fac338ae",
+      "kid": "010109925e28a970a97b8acb0774ae97e4904503f332d968c74bf17f0e53457c3bfb0a",
+      "uid": "be143ba3d91aec49bd40140ca491e819",
+      "username": "gwasser"
+    },
+    "service": {
+      "hostname": "gwasser.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1696762429,
+  "expire_in": 157680000,
+  "prev": "51a82b05e02233f594dcb36e00630233587f5e292619666fbed4d97f4ad9765a",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNAAnicrZJrTFxFFMeXlrY8sy1C6zZNIzcYeZXe94NAjcSAjVTkYUJL63rn3rm7
+tyy7y+6FQiktKxYtdmlLagNFBCkVC33ERrdqqUp5GEMU1+Ca8jCWqlEBaaGAQUmd
+Rf1g4kdnMnNyZv7nN2dOTl/4al1IQPRIjGGpl78cMNjzeokOYrWpFRiwyeVYcgVW
+CFcMtMjQqRkLVRlLxnACTUEgGUjyosDhaAFelADOcbQIBQ7SAk4zOKVQFCkLLC9x
+NFAITsEhQ9EMJ1FAAbiIJWKKajVBh92hWjWEBbTES4pCiAzCcUAiFZlkcCCShCyS
+NCEookRRvAhRoNnm9Eeg5IDohEmqDZ0hx7iS3n/o/+e8S1ZwABI0BURKFggRSrQA
+ZBonaFwSaYGAPCH4hU7osIpFEKlNB0Qn8rDKRAyZUlWC/rr6P/JvQZJJ1cwl4K8/
+2R02zSbZLOjarGl2Z7I/XCu3+/UHIDD+TTIC1SqjWqKIUuhwqjYrlkwgpaSpfjTB
+CizHkjQpJGKwzK46oFH1KxiO5XE0/O/AUoRkCJEnAc5AnCQpSmEEWpYAxUIcZykc
+nTA8p6DiCSRLCCzLKgDKtCxwCi2inWX8pXHCYqsNsRFUE02I6VRNVlErcUCs8mbP
+3kBdQIhu7ZpV/ibThQSv/6f1OKt+edNVy5UOA6E01L2/o38qqyxhxHfacGFt+e9f
+XYnfmvXbfXfazp+rQ/UnJvcavPFLIPeloq7UV2d0numAu8P6wPR8rePRo5/7LFur
+DvWH3XpQXxWZ+EWL/VhZka+8beHenvThwugMH/NTzaajnfP1MW9Gt9/VDYy3rY/w
+kFhGQUbNxqwxT+g0VXH7cFBLqvc65S6oWZfT11CUw5jHr43kEMPfPRIX1d5oBoa0
+MGOnPs81G/vlHe/EK5UOC589u+PDxrzenGdrc2N/nOo1uS68wITPmPMXpyae+PXF
+bnM37gowbhM9U96TkWM36obvbU66f7x6eb5lpvubtKH3tk/PmTyc9va+zK6cs9/2
+X/2hIbb+k+DFz84XgoVDH7w7EWR4Euur3/jQ4txtT1T2qeoBoaG3reiwy0LWturP
+PHcnCz8Ybvw+val1VMk+09SYsqH1/Mtb3OENQ4MXUzty55bp5mPVzH5v18K2lHO7
+M93SjdnJ59PbT6xpHnH9Yrg8+mlZ8SpTcd3okYJntLjeiI/xp89634q8OK0fLHbE
+70nbteFS0FTU15cA5/5jTG7uM+yrqDuYF/dY7a6T9tNkvTV/KWI+4lTnlu2Pv3Yr
+eGemr6rmgcsYQk0W8DGrF5rcN5sChxJ91tDyviObH542dS+805XZ81TYupRrbyR8
+NNAxfp037N4P+88lxP0JqNrCHw==
+=y7xL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gwasser
+
+==================================================================
+ 
