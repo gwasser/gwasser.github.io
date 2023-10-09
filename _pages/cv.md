@@ -11,21 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and B.S. in Mathematics, University of New Orleans, 2007
+* M.S. in Physics, University of New Orleans, 2009
+* M.S. in Mathematics, University of New Orleans, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2014 - May 2023: Vulnerability Analyst
+  * **Software Engineering Institute, Carnegie Mellon University**
+  * Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
+  * Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
+  * Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
+  * Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
+  * Development of reverse engineering tools such as Java extensions for Ghidra
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* September 2011 - October 2014: Adjunct Instructor
+  * Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University)
+  * Courses included (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
   * Supervisor: Professor Hub
+  
+* August 2009 - August 2011: Instructor of Record / Teaching Assistant
+  * Department of Physics, University of New Orleans
+  * Taught general physics as instructor of record; additional duties teaching lab
+  * Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
+  * Project: Quantum density operator methods for three-level atoms
+  * Supervisor: Dr. Ashok Puri
+  
+* August 2007 - August 2009: Research Fellow
+  * Department of Physics, University of New Orleans
+  * Project: Investigating possible superconductive perovskites via pulsed laser deposition
+  * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
+  * Supervisor: Dr. Leonard Spinu
   
 Skills
 ======
@@ -56,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Green Party of the United States national steering co-chair, 2021-2023
