@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2016-08-19-abstractions
 venue: "Abstractions"
 date: 2016-08-19
-location: "Pittsburgh, Pennsylvania"
+location: "Pittsburgh, PA"
 ---
 
 Title: **Don't Let the Bad Bugs Bite: What Every Developer Needs to Know About Coordinated Vulnerability Disclosure**
