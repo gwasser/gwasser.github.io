@@ -15,6 +15,40 @@ Education
 * M.S. in Physics, University of New Orleans, 2009
 * M.S. in Mathematics, University of New Orleans, 2011
 
+Education
+---------
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+
+    *Minor: Awesomeology*
+
+Experience
+======
+
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
+
+
 Work experience
 ======
 * October 2014 - May 2023: Vulnerability Analyst
