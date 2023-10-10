@@ -12,20 +12,22 @@ redirect_from:
 Education
 ---------
 
-M.S. in Mathematics
-:   University of New Orleans, 2011
+M.S. in Mathematics, 2011
+:   University of New Orleans, New Orleans, LA
 
-M.S. in Physics
-:   University of New Orleans, 2009
+M.S. in Physics, 2009
+:   University of New Orleans, New Orleans, LA
 
-B.S. in Physics and B.S. in Mathematics
-:   University of New Orleans, 2007
+B.S. in Physics & Mathematics, 2007
+:   University of New Orleans, New Orleans, LA
+
+    * Double major (two degrees)
 
 Experience
 ----------
 
-**Vulnerability Analyst**
-:   Software Engineering Institute, Carnegie Mellon University, October 2014 - May 2023
+**Vulnerability Analyst** | October 2014 - May 2023
+:   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
 
     * Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
     * Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
@@ -33,21 +35,21 @@ Experience
     * Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
     * Development of reverse engineering tools such as Java extensions for Ghidra
 
-**Adjunct Instructor**
-:   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University), September 2011 - October 2014
+**Adjunct Instructor** | September 2011 - October 2014
+:   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University), Pittsburgh, PA
 
     * Courses included (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
     
-**Instructor of Record / Teaching Assistant**
-:   University of New Orleans, August 2009 - August 2011
+**Instructor of Record / Teaching Assistant** | August 2009 - August 2011
+:   University of New Orleans, New Orleans, LA
 
     * Taught general physics as instructor of record; additional duties teaching lab
     * Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
     * Project: Quantum density operator methods for three-level atoms
     * Supervisor: Dr. Ashok Puri
   
-**Research Fellow**
-:   University of New Orleans, August 2007 - August 2009
+**Research Fellow** | August 2007 - August 2009
+:   University of New Orleans, New Orleans, LA
 
     * Department of Physics, University of New Orleans
     * Project: Investigating possible superconductive perovskites via pulsed laser deposition
@@ -57,8 +59,9 @@ Experience
   
 Skills
 ------
-* Skill 1
-* Skill 2
+* **Technical Writing**
+* **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
+* **Operating Systems**: Linux (SUSE, Red Hat primarily), Windows
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
