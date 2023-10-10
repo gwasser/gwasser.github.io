@@ -11,7 +11,7 @@ This set of lab manuals began as lecture notes and corrections to old manual gui
 
 The set consists of 4 different lab manuals with the same title; they represent 1st semester (mechanics, heat) and 2nd semester (electromagnetism, optics, modern physics) labs presented in slightly different ways for an algebra-based or calculus-based course.
 
-Originally self-published as a 1st Edition in 2014, it was revised several times, with the latest 4th Edition published by [XanEdu Inc](https://www.xanedu.com/) and still in use at the University of New Orleans. It was at different points in time also considered and used by other local colleges and high schools.
+Originally self-published as a 1st Edition in 2014, it was revised several times, with the latest 4th Edition published in 2019 by [XanEdu Inc](https://www.xanedu.com/) and still in use at the University of New Orleans. It was at different points in time also considered and used by other local colleges and high schools.
 
 Due to publishing agreements, the lab manual is no longer available online but may be purchased by students thru the university bookstore.
 
