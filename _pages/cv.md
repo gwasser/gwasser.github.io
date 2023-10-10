@@ -23,8 +23,8 @@ Education
 
     * Dual degrees
 
-Experience
-----------
+Work Experience
+---------------
 
 **Vulnerability Analyst** | October 2014 - May 2023
 :   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
@@ -59,7 +59,7 @@ Experience
 Skills
 ------
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
-* **Operating Systems**: Linux (SUSE, Red Hat primarily), Windows
+* **Operating Systems**: Linux (SUSE, Red Hat, Ubuntu), Windows
 * **Technical Writing**
 
 Publications
