@@ -12,16 +12,16 @@ redirect_from:
 Education
 ---------
 
-M.S. in Mathematics, 2011
+**M.S. in Mathematics**, 2011
 :   University of New Orleans, New Orleans, LA
 
-M.S. in Physics, 2009
+**M.S. in Physics**, 2009
 :   University of New Orleans, New Orleans, LA
 
-B.S. in Physics & Mathematics, 2007
+**B.S. in Physics & Mathematics**, 2007
 :   University of New Orleans, New Orleans, LA
 
-    * Double major (two degrees)
+    * Dual degrees
 
 Experience
 ----------
@@ -38,7 +38,7 @@ Experience
 **Adjunct Instructor** | September 2011 - October 2014
 :   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University), Pittsburgh, PA
 
-    * Courses included (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
+    * Taught courses including (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
     
 **Instructor of Record / Teaching Assistant** | August 2009 - August 2011
 :   University of New Orleans, New Orleans, LA
@@ -51,7 +51,6 @@ Experience
 **Research Fellow** | August 2007 - August 2009
 :   University of New Orleans, New Orleans, LA
 
-    * Department of Physics, University of New Orleans
     * Project: Investigating possible superconductive perovskites via pulsed laser deposition
     * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
     * Supervisor: Dr. Leonard Spinu
@@ -59,13 +58,9 @@ Experience
   
 Skills
 ------
-* **Technical Writing**
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE, Red Hat primarily), Windows
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technical Writing**
 
 Publications
 ------------
