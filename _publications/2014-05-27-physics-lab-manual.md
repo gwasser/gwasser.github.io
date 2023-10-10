@@ -1,11 +1,11 @@
 ---
 title: "Physics Lab Manual"
 collection: publications
-permalink: /publication/2014-06-10-physics-lab-manual
+permalink: /publication/2014-05-27-physics-lab-manual
 excerpt: 'A set of algebra- and calculus-based physics lab manuals meant to accompany 1st and 2nd semester general physics courses.'
-date: 2014-06-10
+date: 2014-05-27
 venue: 'XanEdu Inc.'
-citation: 'Patricia Robbert, Garret Wassermann, and Elaina Rodriguez. <i>Physics Lab Manual, 4th Edition</i>. XanEdu Inc. 2019.'
+citation: 'Patricia Robbert, Garret Wassermann, and Elaina Rodriguez. <i>Lab Manual for (First/Second) Semester (Algebra/Calculus)-Based Physics, 4th Edition</i>. XanEdu Inc. 2019.'
 ---
 This set of lab manuals began as lecture notes and corrections to old manual guidance that was written separately by the authors and then compiled together into a single volume that overtime became a full lab manual in its own right. Working with the department, we also designed and wrote up completely new lab experiments that had not been part of the original curriculum, to better emphasize more modern equipment and a broader view of basic of physics experiments, as well as better emphasize situations in which calculus might be useful for students in that track.
 
@@ -15,4 +15,10 @@ Originally self-published as a 1st Edition in 2014, it was revised several times
 
 Due to publishing agreements, the lab manual is no longer available online but may be purchased by students thru the university bookstore.
 
-Recommended citation: Patricia Robbert, Garret Wassermann, and Elaina Rodriguez. <i>Physics Lab Manual, 4th Edition</i>. XanEdu Inc. 2019.
+4th Editions:
+* Lab Manual for First Semester Algebra-Based Physics - ISBN 978-1-59399-637-6
+* Lab Manual for Second Semester Algebra-Based Physics - ISBN 978-1-59399-639-0
+* Lab Manual for First Semester Calculus-Based Physics - ISBN 978-1-59399-638-3
+* Lab Manual for Second Semester Calculus-Based Physics - ISBN 978-1-59399-640-6
+
+Recommended citation: Patricia Robbert, Garret Wassermann, and Elaina Rodriguez. <i>Lab Manual for (First/Second) Semester (Algebra/Calculus)-Based Physics, 4th Edition</i>. XanEdu Inc. 2019.
