@@ -26,4 +26,4 @@ Security vulnerabilities remain a problem for vendors and deployers of software-
 
 Related: [A 2016 series of SEI blog posts I authored describing coordinated vulnerability disclosure](https://insights.sei.cmu.edu/blog/cvd-series-what-is-coordinated-vulnerability-disclosure-part-1-of-9/)
 
-Recommended citation: Householder, Allen D.; Wassermann, Garret; Manion, Art; & King, Christopher. <i>The CERT Guide to Coordinated Vulnerability Disclosure</i>. Software Engineering Institute. 2017. https://insights.sei.cmu.edu/library/the-cert-guide-to-coordinated-vulnerability-disclosure-2/
+Recommended citation: Householder, Allen D.; Wassermann, Garret; Manion, Art; & King, Christopher. <i>The CERT Guide to Coordinated Vulnerability Disclosure</i>. Software Engineering Institute. 2017.

@@ -18,4 +18,4 @@ In today’s increasingly interconnected world, the information security communi
 
 [Download paper here](https://insights.sei.cmu.edu/library/2016-emerging-technology-domains-risk-survey/)
 
-Recommended citation: King, Christopher; Klinedinst, Dan; Lewellen, Todd; & Wassermann, Garret. <i>2016 Emerging Technology Domains Risk Survey. Software Engineering Institute</i>. 2016. https://insights.sei.cmu.edu/library/2016-emerging-technology-domains-risk-survey/
+Recommended citation: King, Christopher; Klinedinst, Dan; Lewellen, Todd; & Wassermann, Garret. <i>2016 Emerging Technology Domains Risk Survey</i>. Software Engineering Institute. 2016.
