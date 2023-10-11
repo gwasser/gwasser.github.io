@@ -1,7 +1,7 @@
 ---
 title: "Mobile Security: Methods and Challenges During Development"
 collection: talks
-type: "Conference proceedings talk"
+type: "Panel discussion"
 permalink: /talks/2015-10-26-mobiledeli
 venue: "ACM SPLASH 2015 Mobile Development Lifecycle workshop (MobileDeLi '15)"
 date: 2015-10-26
