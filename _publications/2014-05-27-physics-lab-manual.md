@@ -1,8 +1,8 @@
 ---
-title: "Physics Lab Manual"
+title: "Lab Manual for (First/Second) Semester (Algebra/Calculus)-Based Physics"
 collection: publications
 permalink: /publication/2014-05-27-physics-lab-manual
-excerpt: 'A set of algebra- and calculus-based physics lab manuals meant to accompany 1st and 2nd semester general physics courses.'
+excerpt: 'A set of algebra- and calculus-based physics lab manuals meant to accompany 1st and 2nd semester general physics courses, originally published in 2014, now in 4th Edition (2019).'
 date: 2014-05-27
 venue: 'XanEdu Inc.'
 citation: 'Patricia Robbert, Garret Wassermann, and Elaina Rodriguez. <i>Lab Manual for (First/Second) Semester (Algebra/Calculus)-Based Physics, 4th Edition</i>. XanEdu Inc. 2019.'
