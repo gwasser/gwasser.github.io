@@ -31,7 +31,7 @@ Work Experience
 
     * Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
     * Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
-    * Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
+    * Standards work: Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
     * Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
     * Development of reverse engineering tools such as Java extensions for Ghidra
 
@@ -45,13 +45,13 @@ Work Experience
 
     * Taught general physics as instructor of record; additional duties teaching lab
     * Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
-    * Project: Quantum density operator methods for three-level atoms
+    * Graduate School Project: Quantum density operator methods for three-level atoms
     * Supervisor: Dr. Ashok Puri
   
 **Research Fellow** | August 2007 - August 2009
 :   University of New Orleans, New Orleans, LA
 
-    * Project: Investigating possible superconductive perovskites via pulsed laser deposition
+    * Graduate School Project: Investigating possible superconductive perovskite thin films via pulsed laser deposition
     * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
     * Supervisor: Dr. Leonard Spinu
   
@@ -60,6 +60,7 @@ Skills
 ------
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE, Red Hat, Ubuntu), Windows
+  * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
 Publications
