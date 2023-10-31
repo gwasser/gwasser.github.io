@@ -1,5 +1,5 @@
 ---
-title: 'Malware Analysis Tools for Ghidra '
+title: 'Malware Analysis Tools for Ghidra'
 date: 2021-09-13
 permalink: /posts/2021/09/code-analysis-tools-for-ghidra/
 tags:
