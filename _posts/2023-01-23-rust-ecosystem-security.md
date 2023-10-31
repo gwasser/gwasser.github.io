@@ -12,7 +12,7 @@ Below is a round up of some of my work at the Software Engineering Institute inv
 
 [SEI Podcast: Understanding Vulnerability Analysis in the Rust Programming Language](https://insights.sei.cmu.edu/library/understanding-vulnerability-analysis-in-the-rust-programming-language/)
 
-I co-authored the above article and podcast with David Svoboda.
+I co-authored the above article and podcast with David Svoboda. Joe Sible provided some review and feedback.
 
 [Presentation: Will Rust Solve Software Security?](https://insights.sei.cmu.edu/library/will-rust-solve-software-security-2/)
 Summary: In this presentation, the authors evaluate the Rust programming language from a cybersecurity perspective. 
