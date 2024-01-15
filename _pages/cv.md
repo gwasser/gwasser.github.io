@@ -63,6 +63,13 @@ Skills
   * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
+Certificates
+------------
+
+* [EcoDistricts Accredited Professional]("http://gwasser.github.io/files/certificates/EcoDistricts AP Certificate Garret Wassermann.pdf")
+* The Open Notebook - Science Journalism Master Classes
+  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/Certificate-of-Completion-TON-Hype-Course.pdf)
+
 Publications
 ------------
   <ul>{% for post in site.publications reversed %}
