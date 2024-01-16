@@ -56,19 +56,24 @@ Work Experience
     * Supervisor: Dr. Leonard Spinu
   
   
-Skills
-------
+Skills & Interests
+------------------
+
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
-* **Operating Systems**: Linux (SUSE, Red Hat, Ubuntu), Windows
+* **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
   * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
 Certificates
 ------------
 
-* [EcoDistricts Accredited Professional](http://gwasser.github.io/files/certificates/EcoDistricts AP Certificate Garret Wassermann.pdf)
-* The Open Notebook - Science Journalism Master Classes
-  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/Certificate-of-Completion-TON-Hype-Course.pdf)
+* The Open Notebook - Science Journalism Master Classes (2024)
+  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf)
+* [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
+* [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
+* [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
+* [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
+* [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 
 Publications
 ------------
