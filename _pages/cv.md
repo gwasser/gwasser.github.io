@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
+---------
 
 **M.S. in Applied Mathematics**, 2011
 :   University of New Orleans, New Orleans, LA
@@ -22,7 +23,8 @@ redirect_from:
 
     * Dual degrees
 
-# Work Experience
+Work Experience
+---------------
 
 **Vulnerability Analyst** | October 2014 - May 2023
 :   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
@@ -54,44 +56,48 @@ redirect_from:
     * Supervisor: Dr. Leonard Spinu
   
   
-# Skills & Interests
+Skills & Interests
+------------------
 
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
   * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
-# Certificates
+Certificates
+------------
 
 * The Open Notebook - Science Journalism Master Classes (2024)
   * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
 * [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
-
-## Technical
 
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
 * [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
 * [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
 * [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 
-# Publications
+Publications
+------------
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
+Talks
+-----
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-# Teaching
+Teaching
+--------
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
+Service and Leadership
+----------------------
 
 * Green Party of the United States national steering co-chair, 2021-2023
