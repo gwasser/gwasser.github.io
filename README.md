@@ -1,4 +1,4 @@
-A Github Pages implementation for my personal academic-ish site with a blog. Modified a bit from the original template so probably not very portable to others right now. Sorry.
+A Github Pages implementation for my personal academic-ish site with a blog. Modified a bit from the original template so probably not very portable to others right now. Sorry. Primarily updated Jekyll and switched to Github Actions for building the site, so feel free to grab the Gemfile and actions configuration for your own page.
 
 See below for original README contents and details to make your own fork from the original:
 
