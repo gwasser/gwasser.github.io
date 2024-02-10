@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
----------
+# Education
 
-**M.S. in Mathematics**, 2011
+**M.S. in Applied Mathematics**, 2011
 :   University of New Orleans, New Orleans, LA
 
 **M.S. in Physics**, 2009
@@ -23,8 +22,7 @@ Education
 
     * Dual degrees
 
-Work Experience
----------------
+# Work Experience
 
 **Vulnerability Analyst** | October 2014 - May 2023
 :   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
@@ -51,48 +49,49 @@ Work Experience
 **Research Fellow** | August 2007 - August 2009
 :   University of New Orleans, New Orleans, LA
 
-    * Graduate School Project: Investigating possible superconductive perovskite thin films via pulsed laser deposition
+    * Masters' Project: Investigating perovskite thin films produced via pulsed laser deposition for superconductivity
     * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
     * Supervisor: Dr. Leonard Spinu
   
   
-Skills & Interests
-------------------
+# Skills & Interests
 
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
   * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
-Certificates
-------------
+# Certificates
 
 * The Open Notebook - Science Journalism Master Classes (2024)
-  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf)
+  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
 * [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
+
+## Technical
+
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
 * [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
 * [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
 * [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 
-Publications
-------------
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
------
+# Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
---------
+# Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-----------------------
+# Service and leadership
+
 * Green Party of the United States national steering co-chair, 2021-2023
