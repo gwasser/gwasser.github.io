@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
 title                    : "Garret WASSERMANN"
 title_separator          : "-"
@@ -14,6 +14,9 @@ description              : &description "personal description"
 url                      : https://gwasser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gwasser/gwasser.github.io"
+
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160 # low end of average adult reading speed
@@ -49,11 +52,13 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -73,9 +78,18 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+
+# Site Author
+author:
+
+
+
+
+
 
 
 # Site Author
@@ -83,39 +97,48 @@ author:
   name             : "Garret Wassermann"
   avatar           : "wassermann.png"
   bio              : "Software, Cybersecurity, Mathematics, Education"
+  pronouns         : "he/him"
   location         : "Pittsburgh, PA, USA"
+  orcid            : "https://orcid.org/0000-0003-4209-4204"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
+
+  # Manuscript repositories
+  arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # Update with the correct link to your profile
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+
+  # Social media
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
   facebook         :
+  flickr           :
   foursquare       :
   github           : "gwasser"
+  goodreads        :
   google_plus      :
   keybase          : "gwasser"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "garretwassermann"
-  orcid            : "https://orcid.org/0000-0003-4209-4204"
+  kaggle           : # "kaggleusername"
+  mastodon         : # "mastodonhandle"
+  medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
+  wikipedia        :
   xing             :
   youtube          :
-  wikipedia        :
-  medium           : #"garretwassermann"
 
 
 # Reading Files
@@ -246,6 +269,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
