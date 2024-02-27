@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
----------
+======
 
 **M.S. in Applied Mathematics**, 2011
 :   University of New Orleans, New Orleans, LA
@@ -24,7 +24,7 @@ Education
     * Dual degrees
 
 Work Experience
----------------
+======
 
 **Vulnerability Analyst** | October 2014 - May 2023
 :   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
@@ -57,7 +57,7 @@ Work Experience
   
   
 Skills & Interests
-------------------
+======
 
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
@@ -65,7 +65,7 @@ Skills & Interests
 * **Technical Writing**
 
 Certificates
-------------
+======
 
 * The Open Notebook - Science Journalism Master Classes (2024)
   * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
@@ -77,22 +77,20 @@ Certificates
 * [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 
 Publications
-------------
-
+======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
------
+======
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
---------
-
+======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
