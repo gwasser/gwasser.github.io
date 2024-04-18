@@ -18,7 +18,7 @@ Education
 **M.S. in Physics**, 2009
 :   University of New Orleans, New Orleans, LA
 
-**B.S. in Physics & Mathematics**, 2007
+**B.S. in Physics & B.S. in Mathematics**, 2007
 :   University of New Orleans, New Orleans, LA
 
     * Dual degrees
@@ -67,14 +67,21 @@ Skills & Interests
 Certificates
 ======
 
-* The Open Notebook - Science Journalism Master Classes (2024)
-  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
-* [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
+## Software Engineering
+* [Principles of Secure Coding](http://gwasser.github.io/files/certificates/2024/Principles of Secure Coding certificate.pdf) Course Certificate, UC Davis via Coursera
 
+## Information Technology
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
 * [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
 * [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
 * [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
+
+## Science Journalism
+* The Open Notebook - Science Journalism Master Classes (2024)
+  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
+
+## Ecology
+* [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
 
 Publications
 ======
@@ -96,6 +103,6 @@ Teaching
   {% endfor %}</ul>
   
 Service and Leadership
-----------------------
+======================
 
 * Green Party of the United States national steering co-chair, 2021-2023
