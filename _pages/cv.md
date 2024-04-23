@@ -56,19 +56,13 @@ Work Experience
     * Supervisor: Dr. Leonard Spinu
   
   
-Skills & Interests
-======
-
-* **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
-* **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
-  * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
-* **Technical Writing**
-
 Certificates
 ======
 
 ## Software Engineering
-* [Principles of Secure Coding](http://gwasser.github.io/files/certificates/2024/Principles of Secure Coding certificate.pdf) Course Certificate, UC Davis via Coursera
+* [Principles of Secure Coding](http://gwasser.github.io/files/certificates/2024/Coursera Principles of Secure Coding certificate.pdf) Course Certificate, UC Davis via Coursera
+* [Identifying Security Vulnerabilities](http://gwasser.github.io/files/certificates/2024/Coursera Identifying Security Vulnerabilities certificate.pdf) Course Certificate, UC Davis via Coursera
+* [Security Vulnerabilities in C/C++ Programming](http://gwasser.github.io/files/certificates/2024/Coursera Security Vulnerabilities in C Programming certificate.pdf) Course Certificate, UC Davis via Coursera
 
 ## Information Technology
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
@@ -82,6 +76,14 @@ Certificates
 
 ## Ecology
 * [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
+
+Skills & Interests
+======
+
+* **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
+* **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
+  * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
+* **Technical Writing**
 
 Publications
 ======
