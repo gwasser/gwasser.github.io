@@ -60,9 +60,8 @@ Certificates
 ======
 
 ## Software Engineering
-* [Principles of Secure Coding](http://gwasser.github.io/files/certificates/2024/Coursera Principles of Secure Coding certificate.pdf) Course Certificate, UC Davis via Coursera
-* [Identifying Security Vulnerabilities](http://gwasser.github.io/files/certificates/2024/Coursera Identifying Security Vulnerabilities certificate.pdf) Course Certificate, UC Davis via Coursera
-* [Security Vulnerabilities in C/C++ Programming](http://gwasser.github.io/files/certificates/2024/Coursera Security Vulnerabilities in C Programming certificate.pdf) Course Certificate, UC Davis via Coursera
+* [Secure Coding Practices](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) Specialization Certificate, UC Davis via Coursera
+  - 4 Classes include: [Identifying Security Vulnerabilities](http://gwasser.github.io/files/certificates/2024/Coursera Identifying Security Vulnerabilities certificate.pdf), [Security Vulnerabilities in C/C++ Programming](http://gwasser.github.io/files/certificates/2024/Coursera Security Vulnerabilities in C Programming certificate.pdf)
 
 ## Information Technology
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
@@ -72,7 +71,7 @@ Certificates
 
 ## Science Journalism
 * The Open Notebook - Science Journalism Master Classes (2024)
-  * Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
+  - Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
 
 ## Ecology
 * [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
@@ -82,7 +81,7 @@ Skills & Interests
 
 * **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
-  * Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
+  - Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
 Publications
