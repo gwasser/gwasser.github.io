@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Software, Cybersecurity, Mathematics, Education"
+title: "Software, Cybersecurity, Mathematics"
 author_profile: true
 redirect_from: 
   - /about/
