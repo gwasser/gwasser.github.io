@@ -59,10 +59,10 @@ Work Experience
 Certificates
 ======
 
-## Software Engineering
-* [Secure Coding Practices](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) Specialization Certificate, UC Davis via Coursera
-  - 4 Classes include: [Identifying Security Vulnerabilities](http://gwasser.github.io/files/certificates/2024/Coursera Identifying Security Vulnerabilities certificate.pdf), [Security Vulnerabilities in C/C++ Programming](http://gwasser.github.io/files/certificates/2024/Coursera Security Vulnerabilities in C Programming certificate.pdf)
-* [Secure Softare Design](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) Specialization Certificate, University of Colorado via Coursera
+## Software Security & Engineering
+* [Secure Coding Practices](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) (Java/C/C++) Specialization Certificate, UC Davis via Coursera
+* [OWASP Top 10 - 2021](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) Specialization Certificate, InfoSec Institute via Coursera
+* [Secure Software Design](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) Specialization Certificate, University of Colorado via Coursera
 
 ## Information Technology
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
