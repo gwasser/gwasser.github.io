@@ -61,14 +61,15 @@ Certificates
 
 ## Software Security & Engineering
 * [Secure Coding Practices](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) (Java/C/C++) Specialization Certificate, UC Davis via Coursera
+* [JavaScript Security](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec JavaScript Security.pdf) Specialization Certificate, InfoSec Institute via Coursera
 * [OWASP Top 10 - 2021](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) Specialization Certificate, InfoSec Institute via Coursera
 * [Secure Software Design](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) Specialization Certificate, University of Colorado via Coursera
 
 ## Information Technology
+* [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 * [CompTIA Linux+ (2013)](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf)
 * [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
 * [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
-* [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
 
 ## Science Journalism
 * The Open Notebook - Science Journalism Master Classes (2024)
