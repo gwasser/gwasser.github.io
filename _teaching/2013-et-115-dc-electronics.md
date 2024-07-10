@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-et-115-dc-electronics
 venue: "ITT Technical Institute"
-date: 2013-07-08
+date: 2013-04-08
 location: "Pittsburgh, PA"
 ---
 
