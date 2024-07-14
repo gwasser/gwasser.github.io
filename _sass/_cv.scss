@@ -25,6 +25,57 @@
       }
     }
   }
+
+  h1:not(.page__title) {
+    color: #00502c;
+    font-size: 16pt;
+    line-height: 120%;
+    margin-bottom: 0.0835in;
+    margin-top: 0.0835in;
+    text-align: left !important;
+    font-family: 'Aptos Display';
+    writing-mode: horizontal-tb;
+    direction: ltr;
+    font-weight: bold;
+  }
+
+  h2 {
+    color: #007e45;
+    font-size: 13pt;
+    line-height: 120%;
+    margin-bottom: 0in;
+    margin-top: 0.028in;
+    text-align: left !important;
+    font-family: 'Aptos Narrow';
+    writing-mode: horizontal-tb;
+    direction: ltr;
+  }
+
+  dt {
+    color: #007e45;
+    font-size: 13pt;
+    font-weight:bold;
+    line-height: 120%;
+    margin-bottom: 0in;
+    margin-top: 0.028in;
+    text-align: left !important;
+    font-family: 'Aptos Narrow';
+    writing-mode: horizontal-tb;
+    direction: ltr;
+  }
+
+  dd {
+    color:#595959;
+    font-size:10pt;
+    font-weight:bold;
+    line-height: 120%;
+    margin-bottom: 0in;
+    margin-top: 0.028in;
+    text-align: left !important;
+    font-family: 'Aptos Narrow';
+    writing-mode: horizontal-tb;
+    direction: ltr;
+  }
 }
 
 .cvresume__subtitle {
