@@ -64,11 +64,17 @@ WORK EXPERIENCE
 CERTIFICATES
 ======
 
-## Software Security & Engineering
-* [Secure Coding Practices](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) (Java/C/C++) Specialization Certificate, UC Davis via Coursera
-* [JavaScript Security](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec JavaScript Security.pdf) Specialization Certificate, InfoSec Institute via Coursera
-* [OWASP Top 10 - 2021](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) Specialization Certificate, InfoSec Institute via Coursera
-* [Secure Software Design](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) Specialization Certificate, University of Colorado via Coursera
+**Secure Coding Practices (Java/C/C++)** [Link](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) • 2024
+:   University of California - Davis
+
+**JavaScript Security** [Link](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec JavaScript Security.pdf) • 2024
+:   InfoSec
+
+**OWASP Top 10 - 2021 List** [Link](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) • 2024
+:   InfoSec
+
+**Secure Software Design** [Link](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) • 2024
+:   University of Colorado System
 
 ## Information Technology
 * [CompTIA Security+ (Expired: Dec 2015)](http://gwasser.github.io/files/certificates/2012/CompTIA Security+ ce certificate.pdf)
@@ -76,17 +82,10 @@ CERTIFICATES
 * [SUSE Certified Linux Professional (2013)](http://gwasser.github.io/files/certificates/2013/GarretWassermann_SCLP_ECR.pdf)
 * [Linux Professional Institute LPIC-1 (2013)](http://gwasser.github.io/files/certificates/2013/LPIC1-certificate.pdf)
 
-## Science Journalism
-* The Open Notebook - Science Journalism Master Classes (2024)
-  - Classes included: [How To Find An Angle For Any Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Angles-Course.pdf), [How To Spot Scientific Hype and Misinformation](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Hype-Course.pdf), [How To Own A Science Beat](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Beat-Course.pdf), [How To Center People In Science Stories](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Centering-People-Course.pdf), [How To Ace The Study Story](http://gwasser.github.io/files/certificates/2024/Certificate-of-Completion-TON-Study-Story-Course.pdf)
-
-## Ecology
-* [EcoDistricts Accredited Professional (2020)](http://gwasser.github.io/files/certificates/2020/EcoDistricts AP Certificate Garret Wassermann.pdf)
-
 SKILLS AND INTERESTS
 ======
 
-* **Programming Languages**: Python 3, Haskell, C++ (Qt), Java, Rust, C
+* **Programming Languages**: Python, Java, Rust, Haskell, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
   - Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
