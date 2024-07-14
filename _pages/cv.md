@@ -104,8 +104,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and Leadership
-======================
-
-* Green Party of the United States national steering co-chair, 2021-2023
