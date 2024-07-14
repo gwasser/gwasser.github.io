@@ -15,8 +15,12 @@ EDUCATION
 **M.S. Applied Mathematics** • 2011
 :   University of New Orleans • New Orleans, LA
 
+* Concentration in Engineering and Applied Sciences
+
 **M.S. Physics** • 2009
 :   University of New Orleans • New Orleans, LA
+
+* Concentration in Materials Science
 
 **B.S. Physics & B.S. Mathematics** • 2007
 :   University of New Orleans • New Orleans, LA
@@ -28,22 +32,24 @@ WORK EXPERIENCE
 **Vulnerability Analyst / Member of Technical Staff** • 10/2014 - 05/2023
 :   CERT/CC Division, Software Engineering Institute, Carnegie Mellon University • Pittsburgh, PA
 
-* Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
-* Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
-* Standards work: Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
-* Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
-* Development of reverse engineering tools such as Java extensions for Ghidra
+* **Vulnerability analysis and threat modeling**: analysis of reports of potential software vulnerabilities from independent researchers, typically in open source software components -- including identifying flaws using CWE, OWASP, etc.; assessing severity with CVSS, modeling threats with STRIDE, etc.; assigning CVEs; and coordinating vulnerability disclosure process with vendors using PGP and other tools; etc.
+* **Authored ~150 CERT Vulnerability Notes** on software vulnerability disclosures, in coordination with researchers and product developers/vendors (see: https://www.kb.cert.org/vuls/)
+* **Co-author of The CERT Guide to Coordinated Vulnerability Disclosure** (CERT/CC, 2017; https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330).
+* **Developed and maintained internal tools** for vulnerability discovery and reverse engineering, including Kaiju extension for Ghidra in Java, and data analysis tools in Python for use in CERT Pharos
+* **Self-directed analysis and research** and **authored professional blog posts** on topics in coordinated vulnerability disclosure, static code analysis, and Rust programming language & ecosystem security (see blog posts: https://insights.sei.cmu.edu/authors/garret-wassermann/)
+* **Represented CERT/CC on CVSS SIG** and **contributed to the development of CVSSv3.0** (see: https://www.first.org/cvss/v3.0/specification-document)
+* **Delivered presentations at conferences** on coordinated vulnerability disclosure and software security
 
 **Adjunct Instructor** • 09/2011 - 10/2014
 :   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University) • Pittsburgh, PA
 
-* Taught courses including (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
+* **Taught** courses including **programming (Java and C++), computer networking, Linux operating system, calculus, college algebra, physics**; varied by semester/quarter, about 5 courses per semester/quarter.
     
 **Instructor of Record / Teaching Assistant** • 08/2009 - 08/2011
 :   University of New Orleans, Department of Physics • New Orleans, LA
 
-* Taught general physics as instructor of record; additional duties teaching lab
-* Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
+* **Taught** general physics lab and lecture courses
+* **Co-authored** new physics lab curriculum and laboratory manual (1st and 2nd semester, both algebra- and calculus-based)
 * Graduate School Project: Quantum density operator methods for three-level atoms
 * Supervisor: Dr. Ashok Puri
   
