@@ -12,47 +12,47 @@ redirect_from:
 EDUCATION
 ======
 
-**M.S. in Applied Mathematics**
-:   2011 • University of New Orleans • New Orleans, LA
+**M.S. Applied Mathematics** • 2011
+:   University of New Orleans • New Orleans, LA
 
-**M.S. in Physics**
-:   2009 • University of New Orleans • New Orleans, LA
+**M.S. Physics** • 2009
+:   University of New Orleans • New Orleans, LA
 
-**B.S. in Physics & B.S. in Mathematics**
-:   2007 • University of New Orleans • New Orleans, LA
-* Dual degrees
+**B.S. Physics & B.S. Mathematics** • 2007
+:   University of New Orleans • New Orleans, LA
+    * Dual degrees
 
 WORK EXPERIENCE
 ======
 
-**Vulnerability Analyst / Member of Technical Staff** • October 2014 - May 2023
-:   Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA
+**Vulnerability Analyst / Member of Technical Staff** • 10/2014 - 05/2023
+:   CERT/CC Division, Software Engineering Institute, Carnegie Mellon University • Pittsburgh, PA
 
-    * Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
-    * Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
-    * Standards work: Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
-    * Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
-    * Development of reverse engineering tools such as Java extensions for Ghidra
+* Analyzed software security and coordinated security updates with device manufacturers, developers and researchers; identifying CWEs, assigning CVEs, assigning CVSS score, etc.
+* Authored technical notes (CERT Vulnerability Notes) on software vulnerability disclosures (see: https://www.kb.cert.org/vuls/)
+* Standards work: Co-authored CERT Guide to Coordinated Vulnerability Disclosure and contributed to the CVSS 3.0 specification
+* Authored SEI blog posts on topics including reverse engineering and security with Rust programming language.
+* Development of reverse engineering tools such as Java extensions for Ghidra
 
-**Adjunct Instructor** • September 2011 - October 2014
-:   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University), Pittsburgh, PA
+**Adjunct Instructor** • 09/2011 - 10/2014
+:   Various Institutions (ITT Technical Institute, Pittsburgh Technical College, Point Park University) • Pittsburgh, PA
 
 * Taught courses including (varying by semester/quarter): mathematics (algebra, calculus), general physics, electronics (DC/AC), C++ and Java programming, linux operating system
     
-**Instructor of Record / Teaching Assistant** • August 2009 - August 2011
-:   University of New Orleans, New Orleans, LA
+**Instructor of Record / Teaching Assistant** • 08/2009 - 08/2011
+:   University of New Orleans, Department of Physics • New Orleans, LA
 
-    * Taught general physics as instructor of record; additional duties teaching lab
-    * Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
-    * Graduate School Project: Quantum density operator methods for three-level atoms
-    * Supervisor: Dr. Ashok Puri
+* Taught general physics as instructor of record; additional duties teaching lab
+* Co-authored new lab manual series (1st and 2nd semester, both algebra- and calculus-based)
+* Graduate School Project: Quantum density operator methods for three-level atoms
+* Supervisor: Dr. Ashok Puri
   
-**Research Fellow** • August 2007 - August 2009
-:   University of New Orleans, New Orleans, LA
+**Research Fellow** • 08/2007 - 08/2009
+:   University of New Orleans • New Orleans, LA
 
-    * Masters' Project: Investigating perovskite thin films produced via pulsed laser deposition for superconductivity
-    * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
-    * Supervisor: Dr. Leonard Spinu
+* Masters' Project: Investigating perovskite thin films produced via pulsed laser deposition for superconductivity
+* Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
+* Supervisor: Dr. Leonard Spinu
   
   
 CERTIFICATES

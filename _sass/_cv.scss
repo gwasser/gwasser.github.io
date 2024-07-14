@@ -64,6 +64,11 @@
     direction: ltr;
   }
 
+  dt strong {
+    color:#595959;
+    font-size:10pt;
+  }
+
   dd {
     color:#595959;
     font-size:10pt;
@@ -76,6 +81,20 @@
     writing-mode: horizontal-tb;
     direction: ltr;
   }
+
+  li {
+    color:#404040;
+    font-size:11pt;
+    line-height:120%;
+    margin-bottom:0in;
+    margin-left:0cm;
+    margin-top:0in;
+    text-align: left !important;
+    font-family: 'Aptos';
+    writing-mode:horizontal-tb;
+    direction:ltr;
+  }
+
 }
 
 .cvresume__subtitle {
