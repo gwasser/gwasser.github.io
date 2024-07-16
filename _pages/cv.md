@@ -63,17 +63,20 @@ EDUCATION
 CERTIFICATES
 ======
 
+**Software Development Lifecycle (SDLC)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Minnesota SDLC Specialization.pdf) • 2024
+:   University of Minnesota on Coursera
+
 **Secure Coding Practices (Java/C/C++)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) • 2024
-:   University of California - Davis
+:   University of California - Davis on Coursera
 
 **JavaScript Security** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec JavaScript Security.pdf) • 2024
-:   InfoSec
+:   InfoSec on Coursera
 
 **OWASP Top 10 - 2021 List** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) • 2024
-:   InfoSec
+:   InfoSec on Coursera
 
 **Secure Software Design** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) • 2024
-:   University of Colorado System
+:   University of Colorado System on Coursera
 
 **Linux+** [\[Link\]](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf) • 2013
 :   CompTIA
