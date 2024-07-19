@@ -41,6 +41,7 @@ WORK EXPERIENCE
 
 * Masters' Project: Investigating perovskite thin films produced via pulsed laser deposition for superconductivity
 * Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
+* Magnetism simulations using Fortran
 * Supervisor: Dr. Leonard Spinu
 
 EDUCATION
@@ -66,6 +67,9 @@ CERTIFICATES
 **Software Development Lifecycle (SDLC)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Minnesota SDLC Specialization.pdf) • 2024
 :   University of Minnesota on Coursera
 
+**Secure Software Design** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) • 2024
+:   University of Colorado System on Coursera
+
 **Secure Coding Practices (Java/C/C++)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) • 2024
 :   University of California - Davis on Coursera
 
@@ -74,9 +78,6 @@ CERTIFICATES
 
 **OWASP Top 10 - 2021 List** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera InfoSec OWASP Top 10 2021.pdf) • 2024
 :   InfoSec on Coursera
-
-**Secure Software Design** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) • 2024
-:   University of Colorado System on Coursera
 
 **Linux+** [\[Link\]](http://gwasser.github.io/files/certificates/2013/CompTIA Linux+ certificate.pdf) • 2013
 :   CompTIA
