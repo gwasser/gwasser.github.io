@@ -33,15 +33,16 @@ WORK EXPERIENCE
 
 * **Taught** general physics lab and lecture courses
 * **Co-authored** new physics lab curriculum and laboratory manual (1st and 2nd semester, both algebra- and calculus-based)
+* **Developed simulations** for quantum optics problems in Python
 * Graduate School Project: Quantum density operator methods for three-level atoms
 * Supervisor: Dr. Ashok Puri
   
 **Research Fellow** • 08/2007 - 08/2009
 :   University of New Orleans • New Orleans, LA
 
+* **Managed an experimental lab**: producing samples; analysis using electron microscope, ellipsometer, etc.; maintaining deposition equipment; training new users in sample preparation
+* **Developed simulations** for magnetism in Fortran
 * Masters' Project: Investigating perovskite thin films produced via pulsed laser deposition for superconductivity
-* Duties included: producing samples in lab; analysis using SEM, ellipsometer, etc.; maintaining deposition equipment and managing lab
-* Magnetism simulations using Fortran
 * Supervisor: Dr. Leonard Spinu
 
 EDUCATION
