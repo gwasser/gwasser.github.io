@@ -71,6 +71,9 @@ CERTIFICATES
 **Secure Software Design** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Colorado Secure Software Design Specialization Certificate.pdf) • 2024
 :   University of Colorado System on Coursera
 
+**Python 3 Programming** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Michigan Python 3 Programming Specialization.pdf) • 2024
+:   University of Michigan on Coursera
+
 **Secure Coding Practices (Java/C/C++)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) • 2024
 :   University of California - Davis on Coursera
 
