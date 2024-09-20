@@ -74,6 +74,9 @@ CERTIFICATES
 **Python 3 Programming** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Michigan Python 3 Programming Specialization.pdf) • 2024
 :   University of Michigan on Coursera
 
+**Programming in Go** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera UCIrvine Programming in Go Specialization.pdf) • 2024
+:   University of California - Irvine on Coursera
+
 **Secure Coding Practices (Java/C/C++)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera UCDavis Secure Coding Practices Specialization Certificate.pdf) • 2024
 :   University of California - Davis on Coursera
 
@@ -98,7 +101,7 @@ CERTIFICATES
 SKILLS AND INTERESTS
 ======
 
-* **Programming Languages**: Python, Java, Rust, Haskell, C
+* **Programming Languages**: Python, Go, Haskell, Rust, Java, C
 * **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
   - Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
