@@ -1,6 +1,7 @@
 ---
 title: "2016 Emerging Technology Domains Risk Survey"
 collection: publications
+category: reports
 permalink: /publication/2016-04-08-emerging-tech-risk-survey
 excerpt: 'In today’s increasingly interconnected world, the information security community must be prepared to address emerging vulnerabilities that may arise from new technology domains.'
 date: 2016-04-08

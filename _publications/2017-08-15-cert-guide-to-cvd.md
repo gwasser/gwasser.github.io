@@ -1,6 +1,7 @@
 ---
 title: "The CERT Guide to Coordinated Vulnerability Disclosure"
 collection: publications
+category: reports
 permalink: /publication/2017-08-15-cert-guide-to-cvd
 excerpt: 'This guide provides an introduction to the key concepts, principles, and roles necessary to establish a successful Coordinated Vulnerability Disclosure process. It also provides insights into how CVD can go awry and how to respond when it does so.'
 date: 2017-08-15

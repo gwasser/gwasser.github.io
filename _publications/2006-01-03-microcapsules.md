@@ -1,6 +1,7 @@
 ---
 title: "Fabrication and Assembly Behavior of Square Microcapsules"
 collection: publications
+category: manuscripts
 permalink: /publication/2006-01-03-microcapsules
 excerpt: 'Herein we report the use of silicon membranes in the fabrication of micrometer-sized square tubes and capsules. The Si pores of a membrane are modified with a polymer component such that a gap is created along the wall of the channel. Electrochemical deposition within this modified structure creates square metal tubes. The tubes can be released from the membrane, or with further processing, be converted to buoyant microcapsules with interesting assembly properties.'
 date: 2006-01-03-microcapsules
