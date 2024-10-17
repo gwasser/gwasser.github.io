@@ -12,12 +12,22 @@ redirect_from:
 WORK EXPERIENCE
 ======
 
+**Security Engineer, Vulnerability Management** • 10/2024 - Present
+:   GitLab • Pittsburgh, PA (Remote)
+
+* Implement new and iterate on existing technology to help identify and mitigate security issues.
+* Build automation.
+* Validate and triage identified vulnerabilities.
+* Track remediation efforts to their completion.
+* Contribute to team strategy in managing threats and vulnerabilities.
+* Participate in rapid action efforts or other emergency response as needed.
+
 **Vulnerability Analyst / Member of Technical Staff** • 10/2014 - 05/2023
 :   CERT/CC Division, Software Engineering Institute, Carnegie Mellon University • Pittsburgh, PA
 
 * **Vulnerability analysis and threat modeling**: analysis of reports of potential software vulnerabilities from independent researchers, typically in open source software components -- including identifying flaws using CWE, OWASP, etc.; assessing severity with CVSS, modeling threats with STRIDE, etc.; assigning CVEs; and coordinating vulnerability disclosure process with vendors using PGP and other tools; etc.
 * **Authored ~150 CERT Vulnerability Notes** on software vulnerability disclosures, in coordination with researchers and product developers/vendors (see: [https://www.kb.cert.org/vuls/](https://www.kb.cert.org/vuls/))
-* **Co-author of The CERT Guide to Coordinated Vulnerability Disclosure** (CERT/CC, 2017; see [https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330), or the [updated online version](https://certcc.github.io/CERT-Guide-to-CVD/)).
+* **Co-author of The CERT Guide to Coordinated Vulnerability Disclosure** (CERT/CC, 2017; see [the original report](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=503330), or the [updated web version](https://certcc.github.io/CERT-Guide-to-CVD/)).
 * **Developed and maintained internal tools** for vulnerability discovery and reverse engineering, including Kaiju extension for Ghidra in Java, and data analysis tools in Python for use in CERT Pharos
 * **Self-directed analysis and research** and **authored professional blog posts** on topics in coordinated vulnerability disclosure, static code analysis, and Rust programming language & ecosystem security (see blog posts: [https://insights.sei.cmu.edu/authors/garret-wassermann/](https://insights.sei.cmu.edu/authors/garret-wassermann/))
 * **Represented CERT/CC on CVSS SIG** and **contributed to the development of CVSSv3.0** (see: [https://www.first.org/cvss/v3.0/specification-document](https://www.first.org/cvss/v3.0/specification-document))
