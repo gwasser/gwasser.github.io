@@ -8,11 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Garret WASSERMANN"
 title_separator          : "-"
 name                     : &name "Garret Wassermann"
 description              : &description "personal description"
-url                      : https://gwasser.gitlab.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gwasser.gitlab.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gwasser/gwasser.gitlab.io"
 
@@ -37,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -304,6 +306,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -312,6 +315,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 

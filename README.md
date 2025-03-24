@@ -7,7 +7,9 @@ See below for original README contents and details to make your own fork from th
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 # Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+
+![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
 # Getting Started
 
@@ -47,16 +49,13 @@ If you are running on Linux it may be necessary to install some additional depen
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-Start by build the container:
+You can build and execute the container by running the following command in the repository:
 
 ```bash
-docker build -t jekyll-site .
+docker compose up
 ```
 
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
+You should now be able to access the website from `localhost:4000`.
 
 # Maintenance
 
