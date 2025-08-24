@@ -1,0 +1,34 @@
+image: ruby:3.4
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+workflow:
+  rules:
+    - if: $CI_COMMIT_BRANCH
+
+before_script:
+  - gem install bundler
+  - bundle install
+
+pages:
+  stage: deploy
+  script:
+    - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
+  environment: production
+
+test:
+  stage: test
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
+  rules:
+    - if: $CI_COMMIT_BRANCH != "main"
