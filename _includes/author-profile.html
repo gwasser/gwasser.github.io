@@ -79,6 +79,9 @@
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble icon-pad-right" aria-hidden="true"></i>Dribbble</a></li>
       {% endif %}      
+      {% if author.gitlab %}
+        <li><a href="https://gitlab.com/{{ author.gitlab }}"><i class="fab fa-fw fa-gitlab icon-pad-right" aria-hidden="true"></i>GitLab</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
