@@ -23,7 +23,6 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-paginate"
   gem "jekyll-gist"
-  gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
@@ -31,5 +30,5 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
+# gem 'github-pages'
 gem 'connection_pool', '2.5.0'
