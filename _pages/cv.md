@@ -75,6 +75,9 @@ EDUCATION
 CERTIFICATES
 ======
 
+**Ruby 3 Programming** [\[Link\]](http://gwasser.github.io/files/certificates/2025/Coursera Packt Ruby Coding Specialization.pdf) • 2025
+:   Packt on Coursera
+
 **Software Development Lifecycle (SDLC)** [\[Link\]](http://gwasser.github.io/files/certificates/2024/Coursera University of Minnesota SDLC Specialization.pdf) • 2024
 :   University of Minnesota on Coursera
 
@@ -111,8 +114,8 @@ CERTIFICATES
 SKILLS AND INTERESTS
 ======
 
-* **Programming Languages**: Python, Go, Haskell, Rust, Java, C
-* **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu), Windows
+* **Programming Languages**: Python, Go, Ruby, Haskell, Rust, Java, C
+* **Operating Systems**: Linux (SUSE prefered, Red Hat, Ubuntu)
   - Experience maintaining RPM packaging for OpenSUSE especially using OpenSUSE Build Service (OBS)
 * **Technical Writing**
 
