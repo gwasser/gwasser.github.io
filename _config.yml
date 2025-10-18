@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Garret WASSERMANN"
 title_separator          : "-"
 name                     : &name "Garret Wassermann"
-description              : &description "personal description"
+description              : &description "Security Engineer, Mathematician, Educator"
 url                      : https://gwasser.gitlab.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gwasser/gwasser.gitlab.io"
@@ -26,7 +26,7 @@ author:
   bio              : "Security Engineer @ GitLab"
   pronouns         : "he/him"
   location         : "Pittsburgh, PA, USA"
-  employer         : "GitLab"
+  employer         : "GitLab Inc."
   uri              : # URL
   email            :
 
